@@ -45,29 +45,28 @@ Detailed setup commands are available here:
 
 ## Screenshots
 
-### EC2 Console / Instance Setup
-![EC2 Console / Instance Setup](./screenshots/Screenshot%202026-04-13%20011802.png)
+## Screenshots
 
-### SSH Connection to Ubuntu Server
-![SSH Connection to Ubuntu Server](./screenshots/Screenshot%202026-04-13%20011905.png)
+### EC2 Instance Launch and Initial Setup
+![EC2 Instance Launch and Initial Setup](./screenshots/Instance%20launch%20and%20initial%20setup.png)
 
-### Nginx Installation / Configuration
-![Nginx Installation / Configuration](./screenshots/Screenshot%202026-04-12%20012004.png)
+### Security Group Configuration
+![Security Group Configuration](./screenshots/Security%20group%20configuration.png)
 
-### Nginx Status
-![Nginx Status](./screenshots/Screenshot%202026-04-13%20012115.png)
+### First Remote Connection to Ubuntu
+![First Remote Connection to Ubuntu](./screenshots/First%20remote%20connection%20to%20Ubuntu.png)
 
-### Website Files on Server
-![Website Files on Server](./screenshots/Screenshot%202026-04-13%20012215.png)
+### Installing and Managing Nginx
+![Installing and Managing Nginx](./screenshots/Installing%20and%20managing%20Nginx.png)
 
-### SCP File Upload
-![SCP File Upload](./screenshots/Screenshot%202026-04-13%20012310.png)
+### Deploying Website Files
+![Deploying Website Files](./screenshots/Deploying%20the%20website%20files.png)
 
-### Live Website in Browser
-![Live Website in Browser](./screenshots/Screenshot%202026-04-13%20012400.png)
+### Final Live Deployment
+![Final Live Deployment](./screenshots/Final%20live%20deployment.png)
 
-### Final Verification
-![Final Verification](./screenshots/Screenshot%202026-04-13%20012455.png)
+### Roles in the Solution
+![Roles in the Solution](./screenshots/Roles%20in%20the%20solution.png)
 
 ## Outcome
 
