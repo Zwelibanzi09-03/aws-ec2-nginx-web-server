@@ -79,7 +79,3 @@ The website was successfully deployed on an AWS EC2 Ubuntu instance and served t
 - How to install and manage Nginx on Ubuntu
 - How to upload files to a remote server using SCP
 - How to verify deployment and troubleshoot hosting issues
-
-## Author
-
-Ndandise Xalisa
