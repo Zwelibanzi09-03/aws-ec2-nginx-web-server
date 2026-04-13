@@ -9,3 +9,6 @@ This is the actual command flow I used while setting up and deploying the projec
 ```bash
 ssh -i ec2-key.pem ubuntu@your-public-ip
 
+## Preparing the server
+sudo apt update
+sudo apt install nginx -y
