@@ -1,1 +1,11 @@
 
+# EC2 Nginx Setup Commands
+
+This is the actual command flow I used while setting up and deploying the project on the EC2 Ubuntu server.
+
+---
+
+## Connecting to the server
+
+```bash
+ssh -i ec2-key.pem ubuntu@your-public-ip
