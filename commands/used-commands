@@ -2,6 +2,10 @@
 
 This is the actual command flow I used while setting up and deploying the project on the EC2 Ubuntu server.
 
+## Preparing the server
+sudo apt update
+sudo apt install nginx -y
+
 ---
 
 ## Connecting to the server
